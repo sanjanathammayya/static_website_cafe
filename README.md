@@ -1,1 +1,1 @@
-# static_website_cafe
+# static-website
